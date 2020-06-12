@@ -1,0 +1,125 @@
+body{
+
+}
+
+.legende
+{
+    width: 100%;
+    margin-bottom: 1vw;
+}
+.legendeCentre
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #99ccff;
+    margin: 0;
+    float: left;
+}
+
+.legendeVacSco
+{
+    width: 20px;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #99ccff;
+    margin: 0;
+    float: left;
+
+}
+
+.legendeEntreprise
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #00cc99;
+    margin: 0;
+    float: left;
+
+}
+
+.legendeVacSco
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #ffff99;
+    margin: 0;
+    float: left;
+
+}
+
+ .legendeExamBlanc
+ {
+     width: 20px;
+     height: 20px;
+     border-radius: 20px;
+     background: #ff66cc;
+     margin: 0;
+     float: left;
+
+ }
+ .legendeMixte
+ {
+    
+     width: 20px;
+     height: 20px;
+     border-radius: 20px;
+     background:  #d98c4e;
+     margin: 0;
+     float: left;
+
+ }
+
+.legendeJoursFerie
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #ffcccc;
+    margin: 0;
+    float: left;
+
+}
+
+.legendeWeekEnd
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #d8d8d8;
+    margin: 0;
+    float: left;
+}
+
+.legendeCCF
+{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #ff5050;
+    margin: 0;
+    float: left;
+
+}
+
+.legendeReset
+{
+    width: 18px;
+    height: 18px;
+    border-radius: 20px;
+    background: white;
+    border: 2px inset black;;
+    margin: 0;
+    float: left;
+
+}
+.uneLegende
+{
+    margin: 1vw;
+    float: left;
+}
+
+
