@@ -1,0 +1,228 @@
+body
+{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    text-align: center;
+
+
+}
+.logoGreta
+{
+    position: absolute;
+
+}
+
+h1{
+    color: #0070c0;
+    text-align: center;
+    margin: 0.5vw;
+
+}
+h2{
+    color: #ed7d31;
+    text-align: center;
+    margin: 0.5vw;
+
+}
+
+h3{
+    color: #002060;
+    text-align: center;
+    margin: 0.5vw;
+
+}
+.annee
+{
+    min-width: 5vw;
+    text-align: center;
+    border:2px inset black;
+    background-color: #002060;
+    color: white;
+    font-weight: bold;
+    font-size: 1vw;
+}
+
+.tableauCalendar
+{
+
+    width: 100%;
+    border: 2px inset black;
+
+}
+.tableauMois
+{
+    table-layout: fixed;
+    width: 100%;
+    margin-bottom: 3vw;
+
+}
+.mois{
+
+    text-align: center;
+    border:2px inset black;
+    background-color: #ed7d31;
+    color: white;
+    width: 100%;
+    min-width: 7.7vw;
+
+
+}
+.tableJours
+{
+    width: 100%;
+
+}
+.tableJoursRow
+{
+    border:1px inset #d9d9d9;
+    font-size: 0.8vw;
+    color: #002060;
+
+}
+td
+{
+    padding: 0.2vw;
+    font-size: 0.7vw;
+    font-weight: bold;
+    border-bottom: 1px inset black;
+
+
+}
+
+.headerMois
+{
+    padding: 0px;
+    vertical-align: top;
+    color: black;
+    padding-bottom: 10vw;
+    border: 2px inset black;
+    padding: 0px;
+}
+.tableJours
+{
+
+}
+
+.jours
+{
+
+    background-color: #0070c0;
+
+}
+
+.weekend
+{
+    background-color: #d9d9d9;
+}
+
+.ferie
+{
+    background-color: #FFCCCC;
+}
+input
+{
+
+    width: 0.9vw;
+
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.tableBilan
+{
+    table-layout: fixed;
+    width: 100%;
+    
+}
+.tdTableBilan
+{
+    padding: 0;
+}
+.tdBilanMois
+{
+    border-bottom: 0;
+    
+}
+.trBilanMois
+{
+     border: 2px inset black;
+}
+.trTotalMois
+{
+    width: 100%;
+    border-bottom: 2px inset black;
+    border-right: 2px inset black;
+}
+.totalHC
+{
+    background-color: #66ccff;
+}
+.totalHE
+{
+    background-color: #99ff99
+}
+.totalMois
+{
+    color: white;
+    background-color: #3333cc;
+}
+.recapCal
+{
+    position: absolute;
+    top: 1vw;
+    right: 1vw;
+    
+}
+.recapCal td
+{
+    border: 0;
+    border-top: 3px inset black;
+    border-bottom:  3px inset black;
+    border-right: 3px inset black;
+    font-size: 0.8vw;
+    color: white;
+    width: 10vw;
+    height: 2vw;
+}
+.recapCalRow1
+{
+    background-color: #0070c0;
+    border-left: 3px inset black;
+   
+}
+.recapCalRow2
+{
+    background-color: #ed7d31;
+    border-left: 3px inset black;
+    
+}
+.recapCalRow3
+{
+    background-color: #002060;
+    border-left: 3px inset black;
+    
+}
+
+button
+{
+    position: absolute;
+    top: 1vw;
+    right: 25vw;
+    
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
